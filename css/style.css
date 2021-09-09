@@ -1,0 +1,17 @@
+.new{
+    background-image: url(../img/photo-1550028061-1de667deea35.jfif);
+
+
+}
+
+.test{
+margin: 0 auto;
+width: 1000px;
+
+}
+
+.pic{
+width: 300px;
+height: 500px;
+background-size: cover;
+}
